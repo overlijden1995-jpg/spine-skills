@@ -1,0 +1,364 @@
+{
+  "characters": [
+    {
+      "id": "knight",
+      "name": "Ser Aldric",
+      "title": "Knight",
+      "weapon_type": "sword",
+      "weapon_label": "Longsword + Shield",
+      "speed": 430,
+      "jump_velocity": 760,
+      "gravity": 1900,
+      "scale": 1.0,
+      "attack": {
+        "kind": "melee",
+        "label": "Sword Slash",
+        "color": "#dfe8ff",
+        "range": 95,
+        "duration": 0.62
+      },
+      "palette": {
+        "primary": "#3d5a99",
+        "secondary": "#8b93a7",
+        "accent": "#d4af37",
+        "skin": "#e8b48c",
+        "hair": "#5a3a22",
+        "metal": "#b8c0cf",
+        "dark": "#232838"
+      }
+    },
+    {
+      "id": "barbarian",
+      "name": "Brunhild",
+      "title": "Barbarian",
+      "weapon_type": "axe",
+      "weapon_label": "Great Axe",
+      "speed": 385,
+      "jump_velocity": 700,
+      "gravity": 2100,
+      "scale": 1.1,
+      "attack": {
+        "kind": "melee",
+        "label": "Overhead Chop",
+        "color": "#ffb37a",
+        "range": 105,
+        "duration": 0.78
+      },
+      "palette": {
+        "primary": "#8a4b2a",
+        "secondary": "#5d3a24",
+        "accent": "#c9372c",
+        "skin": "#d99a68",
+        "hair": "#b34724",
+        "metal": "#7d7d88",
+        "dark": "#2a1c12"
+      }
+    },
+    {
+      "id": "archer",
+      "name": "Elyra",
+      "title": "Archer",
+      "weapon_type": "bow",
+      "weapon_label": "Longbow",
+      "speed": 500,
+      "jump_velocity": 800,
+      "gravity": 1850,
+      "scale": 0.96,
+      "attack": {
+        "kind": "projectile",
+        "label": "Arrow Shot",
+        "color": "#ffe9a8",
+        "range": 420,
+        "duration": 0.7,
+        "projectile_speed": 720
+      },
+      "palette": {
+        "primary": "#2e6b34",
+        "secondary": "#4a7d3a",
+        "accent": "#c9a86a",
+        "skin": "#f0c09a",
+        "hair": "#d9a441",
+        "metal": "#8a6d3b",
+        "dark": "#1c2b1a"
+      }
+    },
+    {
+      "id": "wizard",
+      "name": "Merlinor",
+      "title": "Wizard",
+      "weapon_type": "staff",
+      "weapon_label": "Arcane Staff",
+      "speed": 360,
+      "jump_velocity": 720,
+      "gravity": 1250,
+      "scale": 0.98,
+      "special": "glide",
+      "attack": {
+        "kind": "projectile",
+        "label": "Magic Bolt",
+        "color": "#7ac8ff",
+        "range": 420,
+        "duration": 0.8,
+        "projectile_speed": 560
+      },
+      "palette": {
+        "primary": "#3b2d7a",
+        "secondary": "#5a48b8",
+        "accent": "#7ac8ff",
+        "skin": "#eebd9a",
+        "hair": "#e8e8e8",
+        "metal": "#9a8ad4",
+        "dark": "#171233"
+      }
+    },
+    {
+      "id": "rogue",
+      "name": "Shade",
+      "title": "Rogue",
+      "weapon_type": "dagger",
+      "weapon_label": "Twin Daggers",
+      "speed": 560,
+      "jump_velocity": 780,
+      "gravity": 1900,
+      "scale": 0.92,
+      "special": "double_jump",
+      "attack": {
+        "kind": "melee",
+        "label": "Dagger Flurry",
+        "color": "#a8ffd8",
+        "range": 75,
+        "duration": 0.45
+      },
+      "palette": {
+        "primary": "#2f3542",
+        "secondary": "#454e63",
+        "accent": "#2ecc71",
+        "skin": "#d9a075",
+        "hair": "#1a1a22",
+        "metal": "#a8b0c0",
+        "dark": "#101218"
+      }
+    },
+    {
+      "id": "cleric",
+      "name": "Sister Mira",
+      "title": "Cleric",
+      "weapon_type": "mace",
+      "weapon_label": "Holy Mace",
+      "speed": 400,
+      "jump_velocity": 730,
+      "gravity": 1900,
+      "scale": 0.97,
+      "attack": {
+        "kind": "projectile",
+        "label": "Holy Smite",
+        "color": "#fff3a0",
+        "range": 340,
+        "duration": 0.85,
+        "projectile_speed": 480
+      },
+      "palette": {
+        "primary": "#e8e3d8",
+        "secondary": "#c9b98a",
+        "accent": "#f2c230",
+        "skin": "#f2c49e",
+        "hair": "#8a5a2e",
+        "metal": "#d9c98a",
+        "dark": "#4a4030"
+      }
+    },
+    {
+      "id": "lancer",
+      "name": "Ser Roland",
+      "title": "Lancer",
+      "weapon_type": "spear",
+      "weapon_label": "War Spear",
+      "speed": 470,
+      "jump_velocity": 770,
+      "gravity": 1950,
+      "scale": 1.02,
+      "attack": {
+        "kind": "melee",
+        "label": "Spear Thrust",
+        "color": "#ffd0a8",
+        "range": 150,
+        "duration": 0.55
+      },
+      "palette": {
+        "primary": "#7a2030",
+        "secondary": "#a83242",
+        "accent": "#e8c87a",
+        "skin": "#c98d5f",
+        "hair": "#2e1c10",
+        "metal": "#c0c8d8",
+        "dark": "#33121a"
+      }
+    },
+    {
+      "id": "crossbowman",
+      "name": "Pietro",
+      "title": "Crossbowman",
+      "weapon_type": "crossbow",
+      "weapon_label": "Heavy Crossbow",
+      "speed": 415,
+      "jump_velocity": 710,
+      "gravity": 2000,
+      "scale": 1.0,
+      "attack": {
+        "kind": "projectile",
+        "label": "Crossbow Bolt",
+        "color": "#ffc98a",
+        "range": 480,
+        "duration": 0.9,
+        "projectile_speed": 900
+      },
+      "palette": {
+        "primary": "#6b4a2a",
+        "secondary": "#8a6238",
+        "accent": "#b8b0a0",
+        "skin": "#d99a68",
+        "hair": "#4a2e18",
+        "metal": "#6e6e7a",
+        "dark": "#2b1d10"
+      }
+    },
+    {
+      "id": "necromancer",
+      "name": "Morvain",
+      "title": "Necromancer",
+      "weapon_type": "scythe",
+      "weapon_label": "Soul Scythe",
+      "speed": 375,
+      "jump_velocity": 740,
+      "gravity": 1500,
+      "scale": 1.0,
+      "special": "glide",
+      "attack": {
+        "kind": "projectile",
+        "label": "Soul Bolt",
+        "color": "#a8ff7a",
+        "range": 400,
+        "duration": 0.85,
+        "projectile_speed": 500
+      },
+      "palette": {
+        "primary": "#232323",
+        "secondary": "#3a4a3a",
+        "accent": "#7ac74f",
+        "skin": "#c8d4b0",
+        "hair": "#101010",
+        "metal": "#5a6b5a",
+        "dark": "#0a0f0a"
+      }
+    },
+    {
+      "id": "paladin",
+      "name": "Dame Aveline",
+      "title": "Paladin",
+      "weapon_type": "hammer",
+      "weapon_label": "Warhammer",
+      "speed": 395,
+      "jump_velocity": 690,
+      "gravity": 2150,
+      "scale": 1.06,
+      "attack": {
+        "kind": "melee",
+        "label": "Hammer Slam",
+        "color": "#ffe28a",
+        "range": 100,
+        "duration": 0.82
+      },
+      "palette": {
+        "primary": "#d8dce8",
+        "secondary": "#a8b4d0",
+        "accent": "#f2c230",
+        "skin": "#e8b48c",
+        "hair": "#e8d44d",
+        "metal": "#e0e6f2",
+        "dark": "#3a4258"
+      }
+    }
+  ],
+  "course": {
+    "world_width": 3400,
+    "ground_y": 520,
+    "start_x": 140,
+    "finish_x": 3180,
+    "platforms": [
+      {
+        "x": 0,
+        "y": 520,
+        "w": 920,
+        "h": 140,
+        "type": "ground"
+      },
+      {
+        "x": 1040,
+        "y": 520,
+        "w": 900,
+        "h": 140,
+        "type": "ground"
+      },
+      {
+        "x": 1150,
+        "y": 428,
+        "w": 260,
+        "h": 24,
+        "type": "platform"
+      },
+      {
+        "x": 1490,
+        "y": 352,
+        "w": 260,
+        "h": 24,
+        "type": "platform"
+      },
+      {
+        "x": 1820,
+        "y": 520,
+        "w": 740,
+        "h": 140,
+        "type": "ground"
+      },
+      {
+        "x": 2690,
+        "y": 520,
+        "w": 710,
+        "h": 140,
+        "type": "ground"
+      }
+    ],
+    "jump_triggers": [
+      {
+        "x": 830,
+        "vy": 1.0
+      },
+      {
+        "x": 1080,
+        "vy": 0.82
+      },
+      {
+        "x": 1420,
+        "vy": 0.8
+      },
+      {
+        "x": 1760,
+        "vy": 0.55
+      },
+      {
+        "x": 2480,
+        "vy": 1.05
+      }
+    ],
+    "attack_trigger": {
+      "x": 2180,
+      "dummy_x": 2380
+    },
+    "spikes": {
+      "x": 2560,
+      "w": 130,
+      "y": 520
+    },
+    "finish_x_trigger": 3180
+  }
+}
