@@ -1,0 +1,35 @@
+{
+  "skeleton": {"name":"warrior_poc", "width":320, "height":420},
+  "bones": [
+    {"name":"root"},
+    {"name":"hip", "parent":"root", "x":0, "y":30, "length":18},
+    {"name":"torso", "parent":"hip", "x":0, "y":10, "length":42},
+    {"name":"neck", "parent":"torso", "x":0, "y":38, "length":8},
+    {"name":"head", "parent":"neck", "x":0, "y":8, "length":16},
+    {"name":"left_upper_arm", "parent":"torso", "x":-10, "y":30, "length":20},
+    {"name":"left_lower_arm", "parent":"left_upper_arm", "x":0, "y":-20, "length":18},
+    {"name":"right_upper_arm", "parent":"torso", "x":10, "y":30, "length":20},
+    {"name":"right_lower_arm", "parent":"right_upper_arm", "x":0, "y":-20, "length":18},
+    {"name":"left_thigh", "parent":"hip", "x":-7, "y":-5, "length":22},
+    {"name":"left_shin", "parent":"left_thigh", "x":0, "y":-22, "length":20},
+    {"name":"right_thigh", "parent":"hip", "x":7, "y":-5, "length":22},
+    {"name":"right_shin", "parent":"right_thigh", "x":0, "y":-22, "length":20}
+  ],
+  "slots": [
+    {"name":"torso_slot", "bone":"torso", "attachment":"torso"},
+    {"name":"head_slot", "bone":"head", "attachment":"head"},
+    {"name":"left_arm_slot", "bone":"left_upper_arm", "attachment":"left_arm"},
+    {"name":"right_arm_slot", "bone":"right_upper_arm", "attachment":"right_arm"},
+    {"name":"left_leg_slot", "bone":"left_thigh", "attachment":"left_leg"},
+    {"name":"right_leg_slot", "bone":"right_thigh", "attachment":"right_leg"}
+  ],
+  "attachments": {
+    "torso":{"width":54,"height":74,"x":0,"y":0},
+    "head":{"width":40,"height":40,"x":0,"y":0},
+    "left_arm":{"width":22,"height":42,"x":0,"y":-19},
+    "right_arm":{"width":22,"height":42,"x":0,"y":-19},
+    "left_leg":{"width":24,"height":48,"x":0,"y":-20},
+    "right_leg":{"width":24,"height":48,"x":0,"y":-20}
+  },
+  "animations":["idle","walk","run","jump","attack"]
+}
