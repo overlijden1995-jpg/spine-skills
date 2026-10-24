@@ -1,0 +1,1822 @@
+{
+ "knight": {
+  "head": {
+   "size": [
+    47,
+    55
+   ],
+   "components": 1,
+   "fg_area": 1822,
+   "pivot": [
+    20,
+    54
+   ]
+  },
+  "torso": {
+   "size": [
+    41,
+    65
+   ],
+   "components": 1,
+   "fg_area": 2631,
+   "pivot": [
+    20,
+    62
+   ]
+  },
+  "hip": {
+   "size": [
+    45,
+    26
+   ],
+   "components": 1,
+   "fg_area": 1052,
+   "pivot": [
+    22,
+    2
+   ]
+  },
+  "left-upper-arm": {
+   "size": [
+    21,
+    43
+   ],
+   "components": 1,
+   "fg_area": 863,
+   "pivot": [
+    10,
+    3
+   ]
+  },
+  "left-lower-arm": {
+   "size": [
+    19,
+    42
+   ],
+   "components": 1,
+   "fg_area": 740,
+   "pivot": [
+    9,
+    3
+   ]
+  },
+  "right-upper-arm": {
+   "size": [
+    21,
+    43
+   ],
+   "components": 1,
+   "fg_area": 863,
+   "pivot": [
+    10,
+    3
+   ]
+  },
+  "right-lower-arm": {
+   "size": [
+    19,
+    42
+   ],
+   "components": 1,
+   "fg_area": 740,
+   "pivot": [
+    9,
+    3
+   ]
+  },
+  "left-upper-leg": {
+   "size": [
+    23,
+    45
+   ],
+   "components": 1,
+   "fg_area": 995,
+   "pivot": [
+    11,
+    3
+   ]
+  },
+  "left-lower-leg": {
+   "size": [
+    21,
+    43
+   ],
+   "components": 1,
+   "fg_area": 863,
+   "pivot": [
+    10,
+    3
+   ]
+  },
+  "right-upper-leg": {
+   "size": [
+    23,
+    45
+   ],
+   "components": 1,
+   "fg_area": 995,
+   "pivot": [
+    11,
+    3
+   ]
+  },
+  "right-lower-leg": {
+   "size": [
+    21,
+    43
+   ],
+   "components": 1,
+   "fg_area": 863,
+   "pivot": [
+    10,
+    3
+   ]
+  },
+  "left-foot": {
+   "size": [
+    31,
+    11
+   ],
+   "components": 1,
+   "fg_area": 281,
+   "pivot": [
+    6,
+    2
+   ]
+  },
+  "right-foot": {
+   "size": [
+    31,
+    11
+   ],
+   "components": 1,
+   "fg_area": 281,
+   "pivot": [
+    6,
+    2
+   ]
+  },
+  "weapon": {
+   "size": [
+    19,
+    91
+   ],
+   "components": 1,
+   "fg_area": 808,
+   "pivot": [
+    9,
+    70
+   ]
+  },
+  "accessory": {
+   "size": [
+    33,
+    49
+   ],
+   "components": 1,
+   "fg_area": 1549,
+   "pivot": [
+    16,
+    4
+   ]
+  }
+ },
+ "barbarian": {
+  "head": {
+   "size": [
+    59,
+    55
+   ],
+   "components": 1,
+   "fg_area": 2081,
+   "pivot": [
+    30,
+    50
+   ]
+  },
+  "torso": {
+   "size": [
+    41,
+    65
+   ],
+   "components": 1,
+   "fg_area": 2657,
+   "pivot": [
+    20,
+    62
+   ]
+  },
+  "hip": {
+   "size": [
+    45,
+    23
+   ],
+   "components": 1,
+   "fg_area": 995,
+   "pivot": [
+    22,
+    2
+   ]
+  },
+  "left-upper-arm": {
+   "size": [
+    21,
+    43
+   ],
+   "components": 1,
+   "fg_area": 863,
+   "pivot": [
+    10,
+    3
+   ]
+  },
+  "left-lower-arm": {
+   "size": [
+    19,
+    42
+   ],
+   "components": 1,
+   "fg_area": 740,
+   "pivot": [
+    9,
+    3
+   ]
+  },
+  "right-upper-arm": {
+   "size": [
+    21,
+    43
+   ],
+   "components": 1,
+   "fg_area": 863,
+   "pivot": [
+    10,
+    3
+   ]
+  },
+  "right-lower-arm": {
+   "size": [
+    19,
+    42
+   ],
+   "components": 1,
+   "fg_area": 740,
+   "pivot": [
+    9,
+    3
+   ]
+  },
+  "left-upper-leg": {
+   "size": [
+    23,
+    45
+   ],
+   "components": 1,
+   "fg_area": 995,
+   "pivot": [
+    11,
+    3
+   ]
+  },
+  "left-lower-leg": {
+   "size": [
+    21,
+    43
+   ],
+   "components": 1,
+   "fg_area": 863,
+   "pivot": [
+    10,
+    3
+   ]
+  },
+  "right-upper-leg": {
+   "size": [
+    23,
+    45
+   ],
+   "components": 1,
+   "fg_area": 995,
+   "pivot": [
+    11,
+    3
+   ]
+  },
+  "right-lower-leg": {
+   "size": [
+    21,
+    43
+   ],
+   "components": 1,
+   "fg_area": 863,
+   "pivot": [
+    10,
+    3
+   ]
+  },
+  "left-foot": {
+   "size": [
+    31,
+    11
+   ],
+   "components": 1,
+   "fg_area": 281,
+   "pivot": [
+    6,
+    2
+   ]
+  },
+  "right-foot": {
+   "size": [
+    31,
+    11
+   ],
+   "components": 1,
+   "fg_area": 281,
+   "pivot": [
+    6,
+    2
+   ]
+  },
+  "weapon": {
+   "size": [
+    36,
+    83
+   ],
+   "components": 1,
+   "fg_area": 1661,
+   "pivot": [
+    3,
+    58
+   ]
+  },
+  "accessory": {
+   "size": [
+    29,
+    29
+   ],
+   "components": 1,
+   "fg_area": 657,
+   "pivot": [
+    14,
+    -4
+   ]
+  }
+ },
+ "archer": {
+  "head": {
+   "size": [
+    49,
+    55
+   ],
+   "components": 1,
+   "fg_area": 2023,
+   "pivot": [
+    22,
+    52
+   ]
+  },
+  "torso": {
+   "size": [
+    41,
+    65
+   ],
+   "components": 1,
+   "fg_area": 2632,
+   "pivot": [
+    20,
+    62
+   ]
+  },
+  "hip": {
+   "size": [
+    45,
+    23
+   ],
+   "components": 1,
+   "fg_area": 995,
+   "pivot": [
+    22,
+    2
+   ]
+  },
+  "left-upper-arm": {
+   "size": [
+    21,
+    43
+   ],
+   "components": 1,
+   "fg_area": 863,
+   "pivot": [
+    10,
+    3
+   ]
+  },
+  "left-lower-arm": {
+   "size": [
+    19,
+    42
+   ],
+   "components": 1,
+   "fg_area": 740,
+   "pivot": [
+    9,
+    3
+   ]
+  },
+  "right-upper-arm": {
+   "size": [
+    21,
+    43
+   ],
+   "components": 1,
+   "fg_area": 863,
+   "pivot": [
+    10,
+    3
+   ]
+  },
+  "right-lower-arm": {
+   "size": [
+    19,
+    42
+   ],
+   "components": 1,
+   "fg_area": 740,
+   "pivot": [
+    9,
+    3
+   ]
+  },
+  "left-upper-leg": {
+   "size": [
+    23,
+    45
+   ],
+   "components": 1,
+   "fg_area": 995,
+   "pivot": [
+    11,
+    3
+   ]
+  },
+  "left-lower-leg": {
+   "size": [
+    21,
+    43
+   ],
+   "components": 1,
+   "fg_area": 863,
+   "pivot": [
+    10,
+    3
+   ]
+  },
+  "right-upper-leg": {
+   "size": [
+    23,
+    45
+   ],
+   "components": 1,
+   "fg_area": 995,
+   "pivot": [
+    11,
+    3
+   ]
+  },
+  "right-lower-leg": {
+   "size": [
+    21,
+    43
+   ],
+   "components": 1,
+   "fg_area": 863,
+   "pivot": [
+    10,
+    3
+   ]
+  },
+  "left-foot": {
+   "size": [
+    31,
+    11
+   ],
+   "components": 1,
+   "fg_area": 281,
+   "pivot": [
+    6,
+    2
+   ]
+  },
+  "right-foot": {
+   "size": [
+    31,
+    11
+   ],
+   "components": 1,
+   "fg_area": 281,
+   "pivot": [
+    6,
+    2
+   ]
+  },
+  "weapon": {
+   "size": [
+    34,
+    87
+   ],
+   "components": 1,
+   "fg_area": 701,
+   "pivot": [
+    9,
+    43
+   ]
+  },
+  "accessory": {
+   "size": [
+    20,
+    49
+   ],
+   "components": 1,
+   "fg_area": 873,
+   "pivot": [
+    8,
+    4
+   ]
+  }
+ },
+ "wizard": {
+  "head": {
+   "size": [
+    55,
+    63
+   ],
+   "components": 1,
+   "fg_area": 2104,
+   "pivot": [
+    28,
+    54
+   ]
+  },
+  "torso": {
+   "size": [
+    41,
+    65
+   ],
+   "components": 1,
+   "fg_area": 2631,
+   "pivot": [
+    20,
+    62
+   ]
+  },
+  "hip": {
+   "size": [
+    45,
+    26
+   ],
+   "components": 1,
+   "fg_area": 1118,
+   "pivot": [
+    22,
+    2
+   ]
+  },
+  "left-upper-arm": {
+   "size": [
+    21,
+    43
+   ],
+   "components": 1,
+   "fg_area": 863,
+   "pivot": [
+    10,
+    3
+   ]
+  },
+  "left-lower-arm": {
+   "size": [
+    19,
+    42
+   ],
+   "components": 1,
+   "fg_area": 740,
+   "pivot": [
+    9,
+    3
+   ]
+  },
+  "right-upper-arm": {
+   "size": [
+    21,
+    43
+   ],
+   "components": 1,
+   "fg_area": 863,
+   "pivot": [
+    10,
+    3
+   ]
+  },
+  "right-lower-arm": {
+   "size": [
+    19,
+    42
+   ],
+   "components": 1,
+   "fg_area": 740,
+   "pivot": [
+    9,
+    3
+   ]
+  },
+  "left-upper-leg": {
+   "size": [
+    23,
+    45
+   ],
+   "components": 1,
+   "fg_area": 995,
+   "pivot": [
+    11,
+    3
+   ]
+  },
+  "left-lower-leg": {
+   "size": [
+    21,
+    43
+   ],
+   "components": 1,
+   "fg_area": 863,
+   "pivot": [
+    10,
+    3
+   ]
+  },
+  "right-upper-leg": {
+   "size": [
+    23,
+    45
+   ],
+   "components": 1,
+   "fg_area": 995,
+   "pivot": [
+    11,
+    3
+   ]
+  },
+  "right-lower-leg": {
+   "size": [
+    21,
+    43
+   ],
+   "components": 1,
+   "fg_area": 863,
+   "pivot": [
+    10,
+    3
+   ]
+  },
+  "left-foot": {
+   "size": [
+    31,
+    11
+   ],
+   "components": 1,
+   "fg_area": 281,
+   "pivot": [
+    6,
+    2
+   ]
+  },
+  "right-foot": {
+   "size": [
+    31,
+    11
+   ],
+   "components": 1,
+   "fg_area": 281,
+   "pivot": [
+    6,
+    2
+   ]
+  },
+  "weapon": {
+   "size": [
+    19,
+    109
+   ],
+   "components": 1,
+   "fg_area": 925,
+   "pivot": [
+    9,
+    72
+   ]
+  },
+  "accessory": {
+   "size": [
+    25,
+    25
+   ],
+   "components": 1,
+   "fg_area": 489,
+   "pivot": [
+    12,
+    -8
+   ]
+  }
+ },
+ "rogue": {
+  "head": {
+   "size": [
+    49,
+    53
+   ],
+   "components": 1,
+   "fg_area": 1997,
+   "pivot": [
+    22,
+    52
+   ]
+  },
+  "torso": {
+   "size": [
+    41,
+    65
+   ],
+   "components": 1,
+   "fg_area": 2631,
+   "pivot": [
+    20,
+    62
+   ]
+  },
+  "hip": {
+   "size": [
+    45,
+    23
+   ],
+   "components": 1,
+   "fg_area": 995,
+   "pivot": [
+    22,
+    2
+   ]
+  },
+  "left-upper-arm": {
+   "size": [
+    21,
+    43
+   ],
+   "components": 1,
+   "fg_area": 863,
+   "pivot": [
+    10,
+    3
+   ]
+  },
+  "left-lower-arm": {
+   "size": [
+    19,
+    42
+   ],
+   "components": 1,
+   "fg_area": 740,
+   "pivot": [
+    9,
+    3
+   ]
+  },
+  "right-upper-arm": {
+   "size": [
+    21,
+    43
+   ],
+   "components": 1,
+   "fg_area": 863,
+   "pivot": [
+    10,
+    3
+   ]
+  },
+  "right-lower-arm": {
+   "size": [
+    19,
+    42
+   ],
+   "components": 1,
+   "fg_area": 740,
+   "pivot": [
+    9,
+    3
+   ]
+  },
+  "left-upper-leg": {
+   "size": [
+    23,
+    45
+   ],
+   "components": 1,
+   "fg_area": 995,
+   "pivot": [
+    11,
+    3
+   ]
+  },
+  "left-lower-leg": {
+   "size": [
+    21,
+    43
+   ],
+   "components": 1,
+   "fg_area": 863,
+   "pivot": [
+    10,
+    3
+   ]
+  },
+  "right-upper-leg": {
+   "size": [
+    23,
+    45
+   ],
+   "components": 1,
+   "fg_area": 995,
+   "pivot": [
+    11,
+    3
+   ]
+  },
+  "right-lower-leg": {
+   "size": [
+    21,
+    43
+   ],
+   "components": 1,
+   "fg_area": 863,
+   "pivot": [
+    10,
+    3
+   ]
+  },
+  "left-foot": {
+   "size": [
+    31,
+    11
+   ],
+   "components": 1,
+   "fg_area": 281,
+   "pivot": [
+    6,
+    2
+   ]
+  },
+  "right-foot": {
+   "size": [
+    31,
+    11
+   ],
+   "components": 1,
+   "fg_area": 281,
+   "pivot": [
+    6,
+    2
+   ]
+  },
+  "weapon": {
+   "size": [
+    11,
+    55
+   ],
+   "components": 1,
+   "fg_area": 386,
+   "pivot": [
+    5,
+    42
+   ]
+  },
+  "accessory": {
+   "size": [
+    21,
+    25
+   ],
+   "components": 1,
+   "fg_area": 515,
+   "pivot": [
+    10,
+    -10
+   ]
+  }
+ },
+ "cleric": {
+  "head": {
+   "size": [
+    47,
+    57
+   ],
+   "components": 1,
+   "fg_area": 1824,
+   "pivot": [
+    20,
+    48
+   ]
+  },
+  "torso": {
+   "size": [
+    41,
+    65
+   ],
+   "components": 1,
+   "fg_area": 2631,
+   "pivot": [
+    20,
+    62
+   ]
+  },
+  "hip": {
+   "size": [
+    45,
+    26
+   ],
+   "components": 1,
+   "fg_area": 1118,
+   "pivot": [
+    22,
+    2
+   ]
+  },
+  "left-upper-arm": {
+   "size": [
+    21,
+    43
+   ],
+   "components": 1,
+   "fg_area": 863,
+   "pivot": [
+    10,
+    3
+   ]
+  },
+  "left-lower-arm": {
+   "size": [
+    19,
+    42
+   ],
+   "components": 1,
+   "fg_area": 740,
+   "pivot": [
+    9,
+    3
+   ]
+  },
+  "right-upper-arm": {
+   "size": [
+    21,
+    43
+   ],
+   "components": 1,
+   "fg_area": 863,
+   "pivot": [
+    10,
+    3
+   ]
+  },
+  "right-lower-arm": {
+   "size": [
+    19,
+    42
+   ],
+   "components": 1,
+   "fg_area": 740,
+   "pivot": [
+    9,
+    3
+   ]
+  },
+  "left-upper-leg": {
+   "size": [
+    23,
+    45
+   ],
+   "components": 1,
+   "fg_area": 995,
+   "pivot": [
+    11,
+    3
+   ]
+  },
+  "left-lower-leg": {
+   "size": [
+    21,
+    43
+   ],
+   "components": 1,
+   "fg_area": 863,
+   "pivot": [
+    10,
+    3
+   ]
+  },
+  "right-upper-leg": {
+   "size": [
+    23,
+    45
+   ],
+   "components": 1,
+   "fg_area": 995,
+   "pivot": [
+    11,
+    3
+   ]
+  },
+  "right-lower-leg": {
+   "size": [
+    21,
+    43
+   ],
+   "components": 1,
+   "fg_area": 863,
+   "pivot": [
+    10,
+    3
+   ]
+  },
+  "left-foot": {
+   "size": [
+    31,
+    11
+   ],
+   "components": 1,
+   "fg_area": 281,
+   "pivot": [
+    6,
+    2
+   ]
+  },
+  "right-foot": {
+   "size": [
+    31,
+    11
+   ],
+   "components": 1,
+   "fg_area": 281,
+   "pivot": [
+    6,
+    2
+   ]
+  },
+  "weapon": {
+   "size": [
+    32,
+    71
+   ],
+   "components": 1,
+   "fg_area": 883,
+   "pivot": [
+    16,
+    52
+   ]
+  },
+  "accessory": {
+   "size": [
+    25,
+    39
+   ],
+   "components": 1,
+   "fg_area": 963,
+   "pivot": [
+    12,
+    -2
+   ]
+  }
+ },
+ "lancer": {
+  "head": {
+   "size": [
+    59,
+    53
+   ],
+   "components": 1,
+   "fg_area": 1811,
+   "pivot": [
+    32,
+    52
+   ]
+  },
+  "torso": {
+   "size": [
+    41,
+    65
+   ],
+   "components": 1,
+   "fg_area": 2648,
+   "pivot": [
+    20,
+    62
+   ]
+  },
+  "hip": {
+   "size": [
+    45,
+    26
+   ],
+   "components": 1,
+   "fg_area": 1052,
+   "pivot": [
+    22,
+    2
+   ]
+  },
+  "left-upper-arm": {
+   "size": [
+    21,
+    43
+   ],
+   "components": 1,
+   "fg_area": 863,
+   "pivot": [
+    10,
+    3
+   ]
+  },
+  "left-lower-arm": {
+   "size": [
+    19,
+    42
+   ],
+   "components": 1,
+   "fg_area": 740,
+   "pivot": [
+    9,
+    3
+   ]
+  },
+  "right-upper-arm": {
+   "size": [
+    21,
+    43
+   ],
+   "components": 1,
+   "fg_area": 863,
+   "pivot": [
+    10,
+    3
+   ]
+  },
+  "right-lower-arm": {
+   "size": [
+    19,
+    42
+   ],
+   "components": 1,
+   "fg_area": 740,
+   "pivot": [
+    9,
+    3
+   ]
+  },
+  "left-upper-leg": {
+   "size": [
+    23,
+    45
+   ],
+   "components": 1,
+   "fg_area": 995,
+   "pivot": [
+    11,
+    3
+   ]
+  },
+  "left-lower-leg": {
+   "size": [
+    21,
+    43
+   ],
+   "components": 1,
+   "fg_area": 863,
+   "pivot": [
+    10,
+    3
+   ]
+  },
+  "right-upper-leg": {
+   "size": [
+    23,
+    45
+   ],
+   "components": 1,
+   "fg_area": 995,
+   "pivot": [
+    11,
+    3
+   ]
+  },
+  "right-lower-leg": {
+   "size": [
+    21,
+    43
+   ],
+   "components": 1,
+   "fg_area": 863,
+   "pivot": [
+    10,
+    3
+   ]
+  },
+  "left-foot": {
+   "size": [
+    31,
+    11
+   ],
+   "components": 1,
+   "fg_area": 281,
+   "pivot": [
+    6,
+    2
+   ]
+  },
+  "right-foot": {
+   "size": [
+    31,
+    11
+   ],
+   "components": 1,
+   "fg_area": 281,
+   "pivot": [
+    6,
+    2
+   ]
+  },
+  "weapon": {
+   "size": [
+    18,
+    131
+   ],
+   "components": 1,
+   "fg_area": 829,
+   "pivot": [
+    6,
+    86
+   ]
+  },
+  "accessory": {
+   "size": [
+    33,
+    53
+   ],
+   "components": 1,
+   "fg_area": 885,
+   "pivot": [
+    16,
+    4
+   ]
+  }
+ },
+ "crossbowman": {
+  "head": {
+   "size": [
+    49,
+    49
+   ],
+   "components": 1,
+   "fg_area": 1746,
+   "pivot": [
+    22,
+    48
+   ]
+  },
+  "torso": {
+   "size": [
+    41,
+    65
+   ],
+   "components": 1,
+   "fg_area": 2631,
+   "pivot": [
+    20,
+    62
+   ]
+  },
+  "hip": {
+   "size": [
+    45,
+    23
+   ],
+   "components": 1,
+   "fg_area": 995,
+   "pivot": [
+    22,
+    2
+   ]
+  },
+  "left-upper-arm": {
+   "size": [
+    21,
+    43
+   ],
+   "components": 1,
+   "fg_area": 863,
+   "pivot": [
+    10,
+    3
+   ]
+  },
+  "left-lower-arm": {
+   "size": [
+    19,
+    42
+   ],
+   "components": 1,
+   "fg_area": 740,
+   "pivot": [
+    9,
+    3
+   ]
+  },
+  "right-upper-arm": {
+   "size": [
+    21,
+    43
+   ],
+   "components": 1,
+   "fg_area": 863,
+   "pivot": [
+    10,
+    3
+   ]
+  },
+  "right-lower-arm": {
+   "size": [
+    19,
+    42
+   ],
+   "components": 1,
+   "fg_area": 740,
+   "pivot": [
+    9,
+    3
+   ]
+  },
+  "left-upper-leg": {
+   "size": [
+    23,
+    45
+   ],
+   "components": 1,
+   "fg_area": 995,
+   "pivot": [
+    11,
+    3
+   ]
+  },
+  "left-lower-leg": {
+   "size": [
+    21,
+    43
+   ],
+   "components": 1,
+   "fg_area": 863,
+   "pivot": [
+    10,
+    3
+   ]
+  },
+  "right-upper-leg": {
+   "size": [
+    23,
+    45
+   ],
+   "components": 1,
+   "fg_area": 995,
+   "pivot": [
+    11,
+    3
+   ]
+  },
+  "right-lower-leg": {
+   "size": [
+    21,
+    43
+   ],
+   "components": 1,
+   "fg_area": 863,
+   "pivot": [
+    10,
+    3
+   ]
+  },
+  "left-foot": {
+   "size": [
+    31,
+    11
+   ],
+   "components": 1,
+   "fg_area": 281,
+   "pivot": [
+    6,
+    2
+   ]
+  },
+  "right-foot": {
+   "size": [
+    31,
+    11
+   ],
+   "components": 1,
+   "fg_area": 281,
+   "pivot": [
+    6,
+    2
+   ]
+  },
+  "weapon": {
+   "size": [
+    58,
+    37
+   ],
+   "components": 1,
+   "fg_area": 850,
+   "pivot": [
+    14,
+    20
+   ]
+  },
+  "accessory": {
+   "size": [
+    29,
+    37
+   ],
+   "components": 1,
+   "fg_area": 813,
+   "pivot": [
+    14,
+    0
+   ]
+  }
+ },
+ "necromancer": {
+  "head": {
+   "size": [
+    49,
+    57
+   ],
+   "components": 1,
+   "fg_area": 2019,
+   "pivot": [
+    22,
+    52
+   ]
+  },
+  "torso": {
+   "size": [
+    41,
+    65
+   ],
+   "components": 1,
+   "fg_area": 2631,
+   "pivot": [
+    20,
+    62
+   ]
+  },
+  "hip": {
+   "size": [
+    45,
+    26
+   ],
+   "components": 1,
+   "fg_area": 1118,
+   "pivot": [
+    22,
+    2
+   ]
+  },
+  "left-upper-arm": {
+   "size": [
+    21,
+    43
+   ],
+   "components": 1,
+   "fg_area": 863,
+   "pivot": [
+    10,
+    3
+   ]
+  },
+  "left-lower-arm": {
+   "size": [
+    19,
+    42
+   ],
+   "components": 1,
+   "fg_area": 740,
+   "pivot": [
+    9,
+    3
+   ]
+  },
+  "right-upper-arm": {
+   "size": [
+    21,
+    43
+   ],
+   "components": 1,
+   "fg_area": 863,
+   "pivot": [
+    10,
+    3
+   ]
+  },
+  "right-lower-arm": {
+   "size": [
+    19,
+    42
+   ],
+   "components": 1,
+   "fg_area": 740,
+   "pivot": [
+    9,
+    3
+   ]
+  },
+  "left-upper-leg": {
+   "size": [
+    23,
+    45
+   ],
+   "components": 1,
+   "fg_area": 995,
+   "pivot": [
+    11,
+    3
+   ]
+  },
+  "left-lower-leg": {
+   "size": [
+    21,
+    43
+   ],
+   "components": 1,
+   "fg_area": 863,
+   "pivot": [
+    10,
+    3
+   ]
+  },
+  "right-upper-leg": {
+   "size": [
+    23,
+    45
+   ],
+   "components": 1,
+   "fg_area": 995,
+   "pivot": [
+    11,
+    3
+   ]
+  },
+  "right-lower-leg": {
+   "size": [
+    21,
+    43
+   ],
+   "components": 1,
+   "fg_area": 863,
+   "pivot": [
+    10,
+    3
+   ]
+  },
+  "left-foot": {
+   "size": [
+    31,
+    11
+   ],
+   "components": 1,
+   "fg_area": 281,
+   "pivot": [
+    6,
+    2
+   ]
+  },
+  "right-foot": {
+   "size": [
+    31,
+    11
+   ],
+   "components": 1,
+   "fg_area": 281,
+   "pivot": [
+    6,
+    2
+   ]
+  },
+  "weapon": {
+   "size": [
+    13,
+    95
+   ],
+   "components": 2,
+   "fg_area": 705,
+   "pivot": [
+    6,
+    62
+   ]
+  },
+  "accessory": {
+   "size": [
+    25,
+    25
+   ],
+   "components": 1,
+   "fg_area": 489,
+   "pivot": [
+    12,
+    -8
+   ]
+  }
+ },
+ "paladin": {
+  "head": {
+   "size": [
+    47,
+    63
+   ],
+   "components": 1,
+   "fg_area": 1993,
+   "pivot": [
+    20,
+    54
+   ]
+  },
+  "torso": {
+   "size": [
+    41,
+    65
+   ],
+   "components": 1,
+   "fg_area": 2631,
+   "pivot": [
+    20,
+    62
+   ]
+  },
+  "hip": {
+   "size": [
+    45,
+    26
+   ],
+   "components": 1,
+   "fg_area": 1052,
+   "pivot": [
+    22,
+    2
+   ]
+  },
+  "left-upper-arm": {
+   "size": [
+    21,
+    43
+   ],
+   "components": 1,
+   "fg_area": 863,
+   "pivot": [
+    10,
+    3
+   ]
+  },
+  "left-lower-arm": {
+   "size": [
+    19,
+    42
+   ],
+   "components": 1,
+   "fg_area": 740,
+   "pivot": [
+    9,
+    3
+   ]
+  },
+  "right-upper-arm": {
+   "size": [
+    21,
+    43
+   ],
+   "components": 1,
+   "fg_area": 863,
+   "pivot": [
+    10,
+    3
+   ]
+  },
+  "right-lower-arm": {
+   "size": [
+    19,
+    42
+   ],
+   "components": 1,
+   "fg_area": 740,
+   "pivot": [
+    9,
+    3
+   ]
+  },
+  "left-upper-leg": {
+   "size": [
+    23,
+    45
+   ],
+   "components": 1,
+   "fg_area": 995,
+   "pivot": [
+    11,
+    3
+   ]
+  },
+  "left-lower-leg": {
+   "size": [
+    21,
+    43
+   ],
+   "components": 1,
+   "fg_area": 863,
+   "pivot": [
+    10,
+    3
+   ]
+  },
+  "right-upper-leg": {
+   "size": [
+    23,
+    45
+   ],
+   "components": 1,
+   "fg_area": 995,
+   "pivot": [
+    11,
+    3
+   ]
+  },
+  "right-lower-leg": {
+   "size": [
+    21,
+    43
+   ],
+   "components": 1,
+   "fg_area": 863,
+   "pivot": [
+    10,
+    3
+   ]
+  },
+  "left-foot": {
+   "size": [
+    31,
+    11
+   ],
+   "components": 1,
+   "fg_area": 281,
+   "pivot": [
+    6,
+    2
+   ]
+  },
+  "right-foot": {
+   "size": [
+    31,
+    11
+   ],
+   "components": 1,
+   "fg_area": 281,
+   "pivot": [
+    6,
+    2
+   ]
+  },
+  "weapon": {
+   "size": [
+    43,
+    79
+   ],
+   "components": 1,
+   "fg_area": 1361,
+   "pivot": [
+    12,
+    56
+   ]
+  },
+  "accessory": {
+   "size": [
+    33,
+    49
+   ],
+   "components": 1,
+   "fg_area": 1549,
+   "pivot": [
+    16,
+    4
+   ]
+  }
+ }
+}
